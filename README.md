@@ -2,6 +2,8 @@
 
 A mixture of rejecting overpriced technology and interest in the capability of building this on my own paired with various allergies made me kicking of this project.
 
+I plan to add [CFD](https://www.autodesk.com/products/cfd/overview) simulations here as well as 3D-Printable parts to rebuild this Air Purifier, that's why I created an repo.
+
 ## Air Filter and intended usage
 
 I decided to go for belows air filter as they are available quite cheap and have good reviews also from TÜV.
