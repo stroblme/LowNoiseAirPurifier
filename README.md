@@ -22,10 +22,9 @@ So while below air flow rate of the fans will easily beat the one specified by P
 | Modelname | Airflow rate $[m^3/h]$ | Noise emission $[dB(A)]$ | Costs p.u. |
 |---|---|---|---|
 | [NB XK-2](https://www.blacknoise.com/site/de/produkte/noiseblocker-it-luefter/nb-blacksilentfan-series/140x140x25mm.php)| 85.0 | 20 | 9 |
-| [NB B14-PS](https://www.blacknoise.com/site/de/produkte/noiseblocker-it-luefter/nb-eloop-series/140x140x29mm.php)| 142.6 | 24 | 25 |
+| [NB B14-3](https://www.blacknoise.com/site/de/produkte/noiseblocker-it-luefter/nb-eloop-series/140x140x29mm.php)| 178.3 | 28.7 | 25 |
 | [SST AP140](https://www.silverstonetek.com/product.php?pid=947&bno=54&tb=101&area=en)| 109.3 | 30.1 | 18 |
 | [SST FHP141](https://www.silverstonetek.com/product.php?pid=366&bno=54&tb=101&area=en)| 290.5 | 43 | 19 |
-
 
 ## Assembly
 
