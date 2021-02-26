@@ -29,7 +29,7 @@ So while below air flow rate of the fans will easily beat the one specified by P
 
 ## Assembly
 
-.. was easier than I thought. The filter comes with some foam-ring which initially had the wrong diameter to correctly seal the fan, but was easily removable.
+.. was easier than I thought. The filter comes with some foam-ring which initially had the wrong diameter to correctly seal the fan, but was easily removable. Some wooden-screws and due to the stiff filter frame the fans were mounted good enough for a test run.
 
 The fans were installed on both ends in an "Pull-Pull" configuration, as this is the intended airflow direction for this filter.
 
@@ -37,4 +37,5 @@ The fans were installed on both ends in an "Pull-Pull" configuration, as this is
 
 I used the **NB XK-2** which turned out producing far too less airflow. My assumption is that not only the airflow rate, but also the capability of the fan for creating an negative pressure is important for this usecase.
 
-Already ordered, the **SST FHP141**; updates coming soon.
+However, it's impossible to hear any noise coming out from the fans, which is not surprising as low noise is one of the major selling points of this brand.
+
