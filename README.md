@@ -5,6 +5,8 @@
 I desided to go for belows air filter as they are available quite cheap and have good reviews also from TÜV.
 [Air filter from Philips 800 Series](https://www.amazon.de/Philips-NanoProtect-replacement-FY0194-30/dp/B07W7YYNFX). HEPA-2 bis $0.003~\mu m$. Modell-bez.: *Philips 800 Series NanoProtect HEPA Ersatz Luftreiniger Filter FY0194/30*
 
+It has an inner diameter around $140~mm$ and and outer diameter of around $250$ diameter.
+
 <br><img src="notes/2021-02-26-19-52-58.png" width="200">
 
 Just for comparison they are compatible with [Philip's air purifier](https://www.amazon.de/Philips-AC0820-10-Luftreiniger-Allergiker/dp/B07WBYD5NT) having the following specs:
