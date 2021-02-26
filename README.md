@@ -1,5 +1,7 @@
 # Low Noise Air Purifier
 
+A mixture of rejecting overpriced technology and interest in the capability of building this on my own paired with various allergies made me kicking of this project.
+
 ## Air Filter and intended usage
 
 I desided to go for belows air filter as they are available quite cheap and have good reviews also from TÜV.
