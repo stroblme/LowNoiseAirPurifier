@@ -31,6 +31,8 @@ So while below air flow rate of the fans will easily beat the one specified by P
 
 .. was easier than I thought. The filter comes with some foam-ring which initially had the wrong diameter to correctly seal the fan, but was easily removable.
 
+The fans were installed on both ends in an "Pull-Pull" configuration, as this is the intended airflow direction for this filter.
+
 <br><img src="notes/2021-02-26-20-06-50.png" width="400">
 
 I used the **NB XK-2** which turned out producing far too less airflow. My assumption is that not only the airflow rate, but also the capability of the fan for creating an negative pressure is important for this usecase.
