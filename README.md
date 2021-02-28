@@ -4,6 +4,8 @@ A mixture of rejecting overpriced technology and interest in the capability of b
 
 I plan to add [CFD](https://www.autodesk.com/products/cfd/overview) simulations here as well as 3D-Printable parts to rebuild this Air Purifier, that's why I created an repo.
 
+Goal for this project is to build an air purifier which is considerably quieter than comparable commercial products and does not knock of more than $100$ bucks from your wallet while using only *HEPA* compliant filters.
+
 ## Air Filter and intended usage
 
 I decided to go for the air filter below as this one is available quite cheap and has good reviews also from TÜV.
@@ -40,7 +42,14 @@ The fans were installed on both ends in an "Pull-Pull" configuration, as this is
 
 <br><img src="notes/2021-02-26-20-06-50.png" width="400">
 
-I used the **NB XK-2** which turned out producing far too less airflow. My assumption is that not only the airflow rate, but also the capability of the fan for creating an negative pressure is important for this usecase.
+I used the **NB XK-2** which turned out being not hearable at all but producing too less airflow. They are moving an noticeable amount of air, which I would consider being equal to the lowest airflow rate of a commercial product which I tested.
 
-However, it's impossible to hear any noise coming out from the fans, which is not surprising as low noise is one of the major selling points of this brand.
+<br><img src="notes/2021-02-28-16-25-38.png" width="500">
+
+## Updates
+
+My assumption is that not only the airflow rate, but also the capability of the fan for creating an negative pressure is important for this usecase.
+
+That's why I ordered the **NB B14-3** which have a much smaller outer gap between blades and the frame and therefore are capable of producing an higher static pressure.
+
 
